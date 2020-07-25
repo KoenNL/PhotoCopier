@@ -3,7 +3,7 @@
 A small and simple script to copy your local iCloud Photos library to a simple file structure.
 
 ## How to run
-Download the latest version.
+Download the latest [version](https://github.com/KoenNL/PhotoCopier/releases).
 
 In your preferred command line tool run `python3 copyPhotos.py C:\path\to\source C:\path\to\destination`.
 
